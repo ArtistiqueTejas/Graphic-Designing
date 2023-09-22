@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Graphic Arts Website</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Graphic Arts</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <section>
+    <h2>About Us</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nisl ac ultrices tincidunt, velit nunc tincidunt nunc, id lacinia nunc nisl id nunc.</p>
+  </section>
+  
+  <section>
+    <h2>Services</h2>
+    <ul>
+      <li>Logo Design</li>
+      <li>Illustrations</li>
+      <li>Print Design</li>
+      <li>Web Design</li>
+    </ul>
+  </section>
+  
+  <footer>
+    <p>&copy; 2022 Graphic Arts. All rights reserved.</p>
+  </footer>
+</body>
+</html>
